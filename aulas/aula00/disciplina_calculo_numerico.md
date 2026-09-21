@@ -1,8 +1,8 @@
 # **IF215 - Cálculo Numérico:**
 
-[Site oficial](https://sites.google.com/cin.ufpe.br/if215-calculo-numerico-ufpe/?pli=1&authuser=1)
+[Site oficial](https://cn-ufpe.github.io/)
 
-A última atualização do site oficial e fonte de referência foi no período de 2019.2, então as informações podem variar.
+A última atualização do site oficial e fonte de referência foi no período de 2021.1, então as informações podem variar.
 
 ## **Sobre a disciplina**
 
