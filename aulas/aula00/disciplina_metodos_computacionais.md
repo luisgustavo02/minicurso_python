@@ -1,4 +1,4 @@
-# **IF264 - Cálculo Numérico:**
+# **IF264 - Métodos Computacionais:**
 
 [Site oficial](https://cin.ufpe.br/~rgm/mcomputacionais/)
 
@@ -14,7 +14,7 @@ Os livros-texto recomendados são:
 
 - TENENBAUM, LANGSAM & AUGENSTEIN. Estruturas de Dados Usando C. Ed. Pearson, 2004.
 - Robert Sedgewick and Kevin Wayne. 2011. Algorithms (4th ed.). Addison-Wesley Professional.
-- Cormen, Thomas H.; Leiserson, Charles E.; Rivest, Ronaldo L.; Stein, Clifford; Algoritmos: teoria e prática: tradução da 2ª edição [americana], Vandenberg D. de Souza, Ed. Campus, 2002. ISBN 85-352-0926-3.
+- Cormen, Thomas H.; Leiserson, Charles E.; Rivest, Ronaldo L.; Stein, Clifford; Algoritmos: teoria e prática: tradução da 2ª edição \[americana\], Vandenberg D. de Souza, Ed. Campus, 2002. ISBN 85-352-0926-3.
 
 ## **Conteúdo da disciplina**
 
