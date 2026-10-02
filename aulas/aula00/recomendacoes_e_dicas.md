@@ -47,3 +47,56 @@ Disponibilizado pela empresa JetBrains, o [PyCharm](https://www.jetbrains.com/py
 <img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxj7kCzMIlSC20SNjaJf9GmESvWFqgy6FNrwzWSIu2lzePyWSz8zg09RAX43OFexidzEE3_7l3auaKk4w9ktJdqg-&format=source" alt="Logo do VS Code" height=100>
 
 O [VS Code](https://code.visualstudio.com/) é um editor do texto que permite a instalação de extensões, as quais suportam inúmeras linguagens de programação, auxiliam no desenvolvimento e permitem a execução de código. Também é mantido pela Microsoft.
+
+## **Boas Práticas**
+
+Para todas as linguagens de programação, temos alguns aspectos em comum pelos programadores, ditas como as boas práticas de programação. Caso interesse, fica como recomendação os os materiais:
+
+**Recomendação para todos:**
+
+- [Playlist do Livro Clean Code - Código Fonte TV](https://youtube.com/playlist?list=PLVc5bWuiFQ8H5P-7QB1_3LOJkOZNMnnpg&si=0VsSQqeT5hiVMwyv)
+- [Curso de Algoritmos e Lógica de Programação - CursoEmVideo](https://www.cursoemvideo.com/curso/curso-de-algoritmo/)
+
+### **Comentários**
+
+É sempre importante comentar no código suas ideias, observações e até autoria do código em alguns projetos. Para isso, o Python tem duas maneiras principais de se comentar em um *script*: com uma hashtag `#`, comentando em uma única linha, ou com três aspas no início e no fim, sejam elas simples `'''` ou duplas `"""`, e permitindo que se comentem em múltiplas linhas. Veja o exemplo a seguir:
+
+```python
+"""
+author: Luís Gustavo
+GitHub: luisgustavo02
+
+Projeto de calculadora
+"""
+
+# Imagine aqui uma função de soma
+def soma():
+    pass
+
+# Imagine aqui a função de subtração
+def subtracao():
+    pass
+
+# TODO: Terminar função de multiplicação
+def multiplicacao():
+    pass
+
+# ...
+
+# Função da calculadora
+def calculadora():
+    pass
+```
+
+Com os comentários, o próprio autor não se perde nas ideias e facilita a organização, além de facilitar a leitura para outros programadores.
+
+### **Nomenclatura de Variáveis e Funções**
+
+Para criar variáveis ou funções, existem alguns padrões que os programadores seguem:
+
+- `PascalCase`
+- `camelCase`
+- `snake_case`
+- `SCREAMING_SNAKE_CASE`
+
+Comumente, variáveis com o nome todo em maiúsculo, são constantes durante todo o código.
