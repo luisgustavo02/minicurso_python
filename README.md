@@ -11,12 +11,12 @@ Este minicurso é oferecido pelo DADES - Diretório Acadêmico do Departamento d
 
 O conteúdo foi programado para três aulas ao longo de três semanas.
 
-| Aula  | Data          | Conteúdo programado                                                                                                                   |
-| :---- | :------------ | :-----------------------------------------------------------------------------------------------------------------------------------: |
-| 00    | Disponível    | Disciplinas de Cálculo Numérico e Métodos Computacionais, Disciplinas eletivas, História da Linguagem Python, Recomendações e Dicas   |
-| 01    | 30/09 e 02/10 | Primeiro Programa em Python, Palavras Reservadas, Variáveis, Entrada e Saída de Dados, Operações Básicas e Bibliotecas Básicas        |
-| 02    | 07 e 09/10    | Operadores Comparativos e Lógicos, Listas, Tuplas e Dicionários, Estrutura Condicional, Estruturas de Repetição, Vetores e Matrizes   |
-| 03    | 14 e 16/10    | Funções, Classes, Arquivos, NumPy, Matplotlib e SymPy                                                                                 |
+| Aula  | Data          | Conteúdo programado                                                                                                                               |
+| :---- | :------------ | :-----------------------------------------------------------------------------------------------------------------------------------------------: |
+| 00    | Disponível    | Disciplinas de Cálculo Numérico; Disciplina de Métodos Computacionais; Disciplinas eletivas; História da Linguagem Python; Recomendações e Dicas  |
+| 01    | 30/09 e 02/10 | Primeiro Programa em Python; Palavras Reservadas; Variáveis; Entrada e Saída de Dados; Operações Básicas; Bibliotecas Básicas                     |
+| 02    | 07 e 09/10    | Operadores Comparativos e Lógicos; Listas, Tuplas e Dicionários; Estrutura Condicional; Estruturas de Repetição; Vetores e Matrizes               |
+| 03    | 14 e 16/10    | Funções; Classes e POO; Arquivos; NumPy; Matplotlib; SymPy                                                                                        |
 
 ## **Conteúdo programado:**
 
@@ -36,9 +36,15 @@ Nesta aula assíncrona, tratamos sobre três tópicos:
 - Palavras Reservadas ([Markdown](aulas/aula01/02_palavras_reservadas.md) | [Notebook](aulas/aula01/02_palavras_reservadas.ipynb))
 - Variáveis ([Markdown](aulas/aula01/03_variaveis.md) | [Notebook](aulas/aula01/03_variaveis.ipynb))
 - Entrada e Saída de Dados ([Markdown](aulas/aula01/04_entrada_e_saida_de_dados.md) | [Notebook](aulas/aula01/04_entrada_e_saida_de_dados.ipynb))
-- Operações Básicas ([Markdown](aulas/aula01/05_operacoes_basicas.md) | [Operações Básicas](aulas/aula01/05_operacoes_basicas.ipynb))
-- Bibliotecas Básicas ([Markdown](aulas/aula01/06_bibliotecas_basicas.md) | [Bibliotecas Básicas](aulas/aula01/06_bibliotecas_basicas.ipynb))
+- Operações Básicas ([Markdown](aulas/aula01/05_operacoes_basicas.md) | [Notebook](aulas/aula01/05_operacoes_basicas.ipynb))
+- Bibliotecas Básicas ([Markdown](aulas/aula01/06_bibliotecas_basicas.md) | [Notebook](aulas/aula01/06_bibliotecas_basicas.ipynb))
 
 ### **Aula 02:**
+
+- Operadores Lógicos e Comparativos ([Markdown](aulas/aula02/07_operadores_comparativos_logicos.md) | [Notebook](aulas/aula02/07_operadores_comparativos_logicos.ipynb))
+- Listas, Tuplas e Dicionários ([Markdown](aulas/aula02/08_listas_tuplas_dicionarios.md) | [Notebook](aulas/aula02/08_listas_tuplas_dicionarios.ipynb))
+- Estrutura Condicional ([Markdown](aulas/aula02/09_estrutura_condicional.md) | [Notebook](aulas/aula02/09_estrutura_condicional.ipynb))
+- Estruturas de Repetição ([Markdown](aulas/aula02/10_estruturas_de_repeticao.md) | [Notebook](aulas/aula02/10_estruturas_de_repeticao.ipynb))
+- Vetores e Matrizes ([Markdown](aulas/aula02/11_vetores_e_matrizes.md) | [Notebook](aulas/aula02/11_vetores_e_matrizes.ipynb))
 
 ### **Aula 03:**
