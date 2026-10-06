@@ -90,7 +90,7 @@ def calculadora():
 
 Com os comentários, o próprio autor não se perde nas ideias e facilita a organização, além de facilitar a leitura para outros programadores.
 
-### **Nomenclatura de Variáveis e Funções**
+### **Nomenclatura**
 
 Para criar variáveis ou funções, existem alguns padrões que os programadores seguem:
 
@@ -99,4 +99,14 @@ Para criar variáveis ou funções, existem alguns padrões que os programadores
 - `snake_case`
 - `SCREAMING_SNAKE_CASE`
 
-Comumente, variáveis com o nome todo em maiúsculo, são constantes durante todo o código.
+Para os exemplos no minicurso e em projetos, recomendo a seguinte distribuição:
+
+| **Tipo**              | **Convenção**             | **Exemplo**                       |
+| :-------------------- | :------------------------ | :-------------------------------- |
+| Variáveis             | `snake_case`              | `nota_final`, `total_alunos`      |
+| Funções               | `snake_case`              | `calcular_media()`                |
+| Constantes            | `SCREAMING_SNAKE_CASE`    | `PI`, `GRAVIDADE`, `TAXA_JUROS`   |
+| Classes               | `PascalCase`              | `ContaBancaria`, `Aluno`          |
+| Módulos e arquivos    | `snake_case`              | `calcular_area.py`, `my_math.py`  |
+
+> **Atenção!** Evite utilizar caracteres especiais na nomenclatura dos tipos, como `ç`, acentos e símbolos.
