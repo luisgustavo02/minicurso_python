@@ -1,5 +1,7 @@
 # **Operadores Comparativos e Lógicos**
 
+Referência: [python.org: comparisons](https://docs.python.org/3/reference/expressions.html#comparisons)
+
 Até agora, nossos programas executaram sempre as mesmas instruções, na mesma ordem. Para que um programa **tome decisões**, precisamos de expressões que resultem em **verdadeiro** (`True`) ou **falso** (`False`). Essas expressões são construídas com os operadores comparativos e lógicos, base das estruturas condicionais e de repetição que veremos a seguir.
 
 **Objetivos:**
