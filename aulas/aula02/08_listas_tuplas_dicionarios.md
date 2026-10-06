@@ -1,5 +1,7 @@
 # **Listas, Tuplas e Dicionários**
 
+Referência: [python.org: typesseq-list](https://docs.python.org/3/builtins/stdtypes.html#typesseq-list), [python.org: more-on-lists](https://docs.python.org/3/tutorial/datastructures.html#more-on-lists), [python.org: tuples-and-sequences](https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences), [python.org - dictionaries](https://docs.python.org/3/tutorial/datastructures.html#dictionaries), [python.org: sets](https://docs.python.org/3/tutorial/datastructures.html#sets)
+
 Até aqui, cada variável guardava **um único valor**. Muitas vezes precisamos armazenar **coleções** de dados: as notas de uma turma, as coordenadas de um ponto, os dados de um aluno. O Python oferece estruturas de dados embutidas para isso. Nesta seção veremos as três mais importantes.
 
 | Estrutura   | Sintaxe        | Ordenada | Mutável | Permite repetidos       |
