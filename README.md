@@ -16,7 +16,7 @@ O conteúdo foi programado para três aulas ao longo de três semanas.
 | 00    | Disponível    | Disciplinas de Cálculo Numérico; Disciplina de Métodos Computacionais; Disciplinas eletivas; História da Linguagem Python; Recomendações e Dicas  |
 | 01    | 30/09 e 02/10 | Primeiro Programa em Python; Palavras Reservadas; Variáveis; Entrada e Saída de Dados; Operações Básicas; Bibliotecas Básicas                     |
 | 02    | 07 e 09/10    | Operadores Comparativos e Lógicos; Listas, Tuplas e Dicionários; Estrutura Condicional; Estruturas de Repetição; Vetores e Matrizes               |
-| 03    | 14 e 16/10    | Funções; Classes e POO; Arquivos; NumPy; Matplotlib; SymPy                                                                                        |
+| 03    | 14 e 16/10    | Funções; Algoritmos de Ordenação; Classes e POO; Arquivos; NumPy; Matplotlib; Pandas; SymPy; Pillow e OpenCV; Scikit-Learn                        |
 
 ## **Conteúdo programado:**
 
