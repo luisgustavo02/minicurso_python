@@ -16,7 +16,7 @@ O conteúdo foi programado para três aulas ao longo de três semanas.
 | 00    | Disponível    | Disciplinas de Cálculo Numérico; Disciplina de Métodos Computacionais; Disciplinas eletivas; História da Linguagem Python; Recomendações e Dicas  |
 | 01    | 30/09 e 02/10 | Primeiro Programa em Python; Palavras Reservadas; Variáveis; Entrada e Saída de Dados; Operações Básicas; Bibliotecas Básicas                     |
 | 02    | 07 e 09/10    | Operadores Comparativos e Lógicos; Listas, Tuplas e Dicionários; Estrutura Condicional; Estruturas de Repetição; Vetores e Matrizes               |
-| 03    | 14 e 16/10    | Funções; Algoritmos de Ordenação; Classes e POO; Arquivos; NumPy; Matplotlib; Pandas; SymPy; Pillow e OpenCV; Scikit-Learn e Scikit-Image         |
+| 03    | 14 e 16/10    | Funções; Algoritmos de Ordenação; Classes e POO; Arquivos e Modulação; NumPy; Matplotlib; Pandas; SymPy; Pillow e OpenCV; Scikit-Learn e Scikit-Image         |
 
 ## **Conteúdo programado:**
 
@@ -52,7 +52,7 @@ Nesta aula assíncrona, tratamos sobre três tópicos:
 - Funções ([Markdown](aulas/aula03/12_funcoes.md) | [Notebook](aulas/aula03/12_funcoes.ipynb))
 - Algoritmos de Ordenação ([Markdown](aulas/aula03/13_algoritmos_de_ordenacao.md) | [Notebook](aulas/aula03/13_algoritmos_de_ordenacao.ipynb))
 - Classes e POO ([Markdown](aulas/aula03/14_classes_poo.md) | [Notebook](aulas/aula03/14_classes_poo.ipynb))
-- Arquivos ([Markdown](aulas/aula03/15_arquivos.md) | [Notebook](aulas/aula03/15_arquivos.ipynb))
+- Arquivos e Modulação ([Markdown](aulas/aula03/15_arquivos_modulacao.md) | [Notebook](aulas/aula03/15_arquivos_modulacao.ipynb))
 - NumPy ([Markdown](aulas/aula03/16_numpy.md) | [Notebook](aulas/aula03/16_numpy.ipynb))
 - Matplotlib ([Markdown](aulas/aula03/17_matplotlib.md) | [Notebook](aulas/aula03/17_matplotlib.ipynb))
 - Pandas ([Markdown](aulas/aula03/18_pandas.md) | [Notebook](aulas/aula03/18_pandas.ipynb))
