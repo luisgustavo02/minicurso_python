@@ -11,12 +11,13 @@ Este minicurso é oferecido pelo DADES - Diretório Acadêmico do Departamento d
 
 O conteúdo foi programado para três aulas ao longo de três semanas.
 
-| Aula  | Data          | Conteúdo programado                                                                                                                               |
-| :---- | :------------ | :-----------------------------------------------------------------------------------------------------------------------------------------------: |
-| 00    | Disponível    | Disciplinas de Cálculo Numérico; Disciplina de Métodos Computacionais; Disciplinas eletivas; História da Linguagem Python; Recomendações e Dicas  |
-| 01    | 30/09 e 02/10 | Primeiro Programa em Python; Palavras Reservadas; Variáveis; Entrada e Saída de Dados; Operações Básicas; Bibliotecas Básicas                     |
-| 02    | 07 e 09/10    | Operadores Comparativos e Lógicos; Listas, Tuplas e Dicionários; Estrutura Condicional; Estruturas de Repetição; Vetores e Matrizes               |
-| 03    | 14 e 16/10    | Funções; Algoritmos de Ordenação; Classes e POO; Arquivos e Modulação; NumPy; Matplotlib; Pandas; SymPy; Pillow e OpenCV; Scikit-Learn e Scikit-Image         |
+| Aula    | Data          | Conteúdo programado                                                                                                                                     |
+| :------ | :------------ | :-----------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 00      | Disponível    | Disciplinas de Cálculo Numérico; Disciplina de Métodos Computacionais; Disciplinas eletivas; História da Linguagem Python; Recomendações e Dicas        |
+| 01      | 30/09 e 02/10 | Primeiro Programa em Python; Palavras Reservadas; Variáveis; Entrada e Saída de Dados; Operações Básicas; Bibliotecas Básicas                           |
+| 02      | 07 e 09/10    | Operadores Comparativos e Lógicos; Listas, Tuplas e Dicionários; Estrutura Condicional; Estruturas de Repetição; Vetores e Matrizes                     |
+| 03      | 14 e 16/10    | Funções; Algoritmos de Ordenação; Classes e POO; Arquivos e Modulação; NumPy; Matplotlib; Pandas; SymPy; Pillow e OpenCV; Scikit-Learn e Scikit-Image   |
+| Projeto | 12/10         | Instruções do projeto e Exercícios                                                                                                                      |
 
 ## **Conteúdo programado:**
 
