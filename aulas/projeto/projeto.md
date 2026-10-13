@@ -276,10 +276,9 @@ Ana    | 22.04 | Normal
 Bruno  | 29.32 | Sobrepeso
 ```
 
+## **🟡 Projetos de Nível Médio:**
 
-## **Projetos de Nível Médio:**
-
-### **Médio 06 - Calculadora de Datas**
+### **🟡 Médio 06 - Calculadora de Datas**
 
 Crie um menu com duas operações: (1) calcular quantos dias há entre duas datas e (2) somar uma quantidade de dias a uma data. As datas são digitadas no formato DD/MM/AAAA. É proibido usar os módulos datetime, calendar ou time; toda a lógica do calendário deve ser sua.
 
@@ -375,7 +374,7 @@ Dias a somar:
 12/10/2026 + 100 dias = 20/01/2027 (quarta-feira)
 ```
 
-### **Médio 07 - Sistema de Notas da Turma**
+### **🟡 Médio 07 - Sistema de Notas da Turma**
 
 Leia os dados de uma turma, onde em cada linha, temos os dados de nome, matrícula, 1ª nota, 2ª nota, 3ª nota e 4ª nota. Calcule a média de cada aluno e inclua "Aprovação" (média ≥ 7), "Recuperação" (3 ≤ média < 7) e "Reprovação" (média < 3). Ignore as notas que estão fora do intervalo [0, 10], caso não obedeça a condição, repita o pedido da linha. Se a matrícula se repetir, a entrada não pode ser aceita.
 
@@ -417,7 +416,7 @@ Final: 2
 Reprovados: 0
 ```
 
-### **Médio 08 - Criptografia de Arquivos**
+### **🟡 Médio 08 - Criptografia de Arquivos**
 
 Leia um arquivo de texto, criptografe ou descriptografe seu conteúdo com a **Cifra de César** e grave o resultado em outro arquivo. Na cifra, cada letra é deslocada `k` posições no alfabeto, voltando ao início depois do Z (com `k = 3`: A→D, B→E, …, X→A, Y→B, Z→C).
 
@@ -479,7 +478,7 @@ Linhas processadas: 3 | Letras convertidas: 43
 Resultado gravado em recuperado.txt
 ```
 
-### **Médio 09 - Calculadora Simbólica com SymPy**
+### **🟡 Médio 09 - Calculadora Simbólica com SymPy**
 
 Crie um menu que leia uma expressão em `x` e permita: derivar, integrar, calcular limite, encontrar raízes e plotar a função. Cada operação deve ser uma função separada.
 
@@ -558,7 +557,7 @@ Escolha uma opção:
 > 0
 ```
 
-### **Médio 10 - Cálculo de Moeda com API**
+### **🟡 Médio 10 - Cálculo de Moeda com API**
 
 Faça um programa de converta moedas, utilizando a [AwesomeAPI](https://docs.awesomeapi.com.br/api-de-moedas), seja para dólar americano, euro ou bitcoin. Use como referência o link abaixo:
 
@@ -566,9 +565,9 @@ Faça um programa de converta moedas, utilizando a [AwesomeAPI](https://docs.awe
 
 > **Dica:** Ao utilizar a biblioteca `requests` e `json`, você pode extrair os dados no formato de dicionário.
 
-## **Projetos de Nível Avançado:**
+## **🔴 Projetos de Nível Avançado:**
 
-### **Avançado 11 - Analisador de Sinais Senoidais**
+### **🔴 Avançado 11 - Analisador de Sinais Senoidais**
 
 Leia amplitude, frequência, fase (graus) e duração de um sinal senoidal. Gere o sinal com NumPy, calcule valor de pico, valor RMS e período, e salve o gráfico em `sinal.png`. Use a fórmula:
 
@@ -600,7 +599,7 @@ RMS calculado: 7.07 V (teórico: 7.07 V)
 Gráfico salvo em sinal.png
 ```
 
-### **Avançado 12 - Análise da Estatísticas da Câmara dos Deputados**
+### **🔴 Avançado 12 - Análise da Estatísticas da Câmara dos Deputados**
 
 Crie um programa que analise estatisticamente dados da câmara dos deputados, como deputados por partido, qunatidade de mulheres por partido, quantidade de deputados por UF, etc.
 
@@ -610,7 +609,7 @@ Para isso, use o link de referência e faça a extração de dados com as biblio
 
 > **Dica:** utilize como referência o material do professor Fernando Masanori: [PyCidadania](bit.ly/pycidadania).
 
-### **Avançado 13 - Microcontrolador com Python**
+### **🔴 Avançado 13 - Microcontrolador com Python**
 
 Crie um projeto com uma Raspberry Pi Pico no site [Wokwi](https://wokwi.com/), para simulação e prototipagem de ideias. A ideia é fazer um sistema de semáforo de trânsito, da seguinte maneira:
 
@@ -624,7 +623,7 @@ Utilize os LEDs vermelho, amarelo e verde para fazer as conexões corretas.
 
 > **Dica:** utilize a referência do site [MicroPython](https://micropython.org/).
 
-### **Avançado 14 - Mineração de Texto na Câmara dos Deputados**
+### **🔴 Avançado 14 - Mineração de Texto na Câmara dos Deputados**
 
 Construa um código que faça a leitura dos textos falados pelos deputados federais na câmara dos deputados. Para isso, utilize a URL de referência, onde:
 
@@ -637,7 +636,7 @@ Construa um código que faça a leitura dos textos falados pelos deputados feder
 
 > **Dica:** utilize como referência o material do professor Fernando Masanori: [PyCidadania](bit.ly/pycidadania).
 
-### **Avançado 15 - Assistente Virtual**
+### **🔴 Avançado 15 - Assistente Virtual**
 
 Crie uma assistente virtual que leia o microfone e execute comandos no computador, seja para criação de pasta ou arquivos, executar programas, enviar mensagens, etc.
 
