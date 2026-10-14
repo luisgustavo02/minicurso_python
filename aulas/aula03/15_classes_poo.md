@@ -395,19 +395,6 @@ Com isso, os métodos numéricos que fizemos com funções (bisseção, Newton) 
 
 ---
 
-## **Exercícios**
-
-1. Crie a classe `Retangulo` com `base` e `altura`, e os métodos `area()` e `perimetro()`.
-2. Crie a classe `ContaBancaria` com `depositar`, `sacar` (sem permitir saldo negativo) e `extrato`.
-3. Crie `Vetor3D` com `+`, `-`, produto escalar, `abs()` e `__repr__`.
-4. Crie a classe `Fracao` com numerador e denominador, `__add__`, `__mul__`, `__str__` e simplificação (use `math.gcd`).
-5. Crie `Animal` (com `falar()`), e as subclasses `Cachorro` e `Gato`. Percorra uma lista de animais chamando `falar()`.
-6. Crie a classe `Matriz` (lista de listas) com `__add__`, `__mul__` (produto matricial) e `transposta()`, reaproveitando o que foi visto na Aula 02.
-7. Crie a classe `Turma` que guarde vários objetos `Aluno` e retorne o aluno de maior média e o ranking ordenado.
-8. **Desafio:** Estenda a classe `Polinomio` com `__add__`, `__mul__` e `__repr__` que mostre o polinômio no formato `x^2 - 2`.
-
----
-
 ## **Resumo Rápido**
 
 | Conceito              | Em uma frase                                                                  |
