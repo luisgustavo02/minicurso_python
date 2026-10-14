@@ -11,13 +11,13 @@ Este minicurso é oferecido pelo DADES - Diretório Acadêmico do Departamento d
 
 O conteúdo foi programado para três aulas ao longo de três semanas.
 
-| Aula    | Data          | Conteúdo programado                                                                                                                                     |
-| :------ | :------------ | :-----------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 00      | Disponível    | Disciplinas de Cálculo Numérico; Disciplina de Métodos Computacionais; Disciplinas eletivas; História da Linguagem Python; Recomendações e Dicas        |
-| 01      | 30/09 e 02/10 | Primeiro Programa em Python; Palavras Reservadas; Variáveis; Entrada e Saída de Dados; Operações Básicas; Bibliotecas Básicas                           |
-| 02      | 07 e 09/10    | Operadores Comparativos e Lógicos; Listas, Tuplas e Dicionários; Estrutura Condicional; Estruturas de Repetição; Vetores e Matrizes; Strings            |
-| 03      | 14 e 16/10    | Funções; Algoritmos de Ordenação; Classes e POO; Arquivos e Modulação; NumPy; Matplotlib; Pandas; SymPy; Pillow e OpenCV; Scikit-Learn e Scikit-Image   |
-| Projeto | 12/10         | Instruções do projeto e Exercícios                                                                                                                      |
+| Aula    | Data          | Conteúdo programado                                                                                                                                                         |
+| :------ | :------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 00      | Disponível    | Disciplinas de Cálculo Numérico; Disciplina de Métodos Computacionais; Disciplinas eletivas; História da Linguagem Python; Recomendações e Dicas                            |
+| 01      | 30/09 e 02/10 | Primeiro Programa em Python; Palavras Reservadas; Variáveis; Entrada e Saída de Dados; Operações Básicas; Bibliotecas Básicas                                               |
+| 02      | 07 e 09/10    | Operadores Comparativos e Lógicos; Listas, Tuplas e Dicionários; Estrutura Condicional; Estruturas de Repetição; Vetores e Matrizes; Strings                                |
+| 03      | 14 e 16/10    | Funções; Algoritmos de Ordenação; Classes e POO; Arquivos e Modulação; Tratamento de Erros; NumPy; Matplotlib; Pandas; SymPy; Pillow e OpenCV; Scikit-Learn e Scikit-Image  |
+| Projeto | 12/10         | Instruções do projeto e Exercícios                                                                                                                                          |
 
 ## **Conteúdo programado:**
 
@@ -55,12 +55,13 @@ Nesta aula assíncrona, tratamos sobre três tópicos:
 - Algoritmos de Ordenação ([Markdown](aulas/aula03/14_algoritmos_de_ordenacao.md) | [Notebook](aulas/aula03/14_algoritmos_de_ordenacao.ipynb))
 - Classes e POO ([Markdown](aulas/aula03/15_classes_poo.md) | [Notebook](aulas/aula03/15_classes_poo.ipynb))
 - Arquivos e Modulação ([Markdown](aulas/aula03/16_arquivos_modulacao.md) | [Notebook](aulas/aula03/16_arquivos_modulacao.ipynb))
-- NumPy ([Markdown](aulas/aula03/17_numpy.md) | [Notebook](aulas/aula03/17_numpy.ipynb))
-- Matplotlib ([Markdown](aulas/aula03/18_matplotlib.md) | [Notebook](aulas/aula03/18_matplotlib.ipynb))
-- Pandas ([Markdown](aulas/aula03/19_pandas.md) | [Notebook](aulas/aula03/19_pandas.ipynb))
-- SymPy ([Markdown](aulas/aula03/20_sympy.md) | [Notebook](aulas/aula03/20_sympy.ipynb))
-- Pyllow e OpenCV ([Markdown](aulas/aula03/21_pillow_opencv.md) | [Notebook](aulas/aula03/21_pillow_opencv.ipynb))
-- Scikit-Learn e Scikit-Image ([Markdown](aulas/aula03/22_scikitlearn_scikitimage.md) | [Notebook](aulas/aula03/22_scikitlearn_scikitimage.ipynb))
+- Tratamento de Erros ([Markdown](aulas/aula03/17_tratamento_de_erros.md) | [Notebook](aulas/aula03/17_tratamento_de_erros.ipynb))
+- NumPy ([Markdown](aulas/aula03/18_numpy.md) | [Notebook](aulas/aula03/18_numpy.ipynb))
+- Matplotlib ([Markdown](aulas/aula03/19_matplotlib.md) | [Notebook](aulas/aula03/19_matplotlib.ipynb))
+- Pandas ([Markdown](aulas/aula03/20_pandas.md) | [Notebook](aulas/aula03/20_pandas.ipynb))
+- SymPy ([Markdown](aulas/aula03/21_sympy.md) | [Notebook](aulas/aula03/21_sympy.ipynb))
+- Pyllow e OpenCV ([Markdown](aulas/aula03/22_pillow_opencv.md) | [Notebook](aulas/aula03/22_pillow_opencv.ipynb))
+- Scikit-Learn e Scikit-Image ([Markdown](aulas/aula03/23_scikitlearn_scikitimage.md) | [Notebook](aulas/aula03/23_scikitlearn_scikitimage.ipynb))
 
 ### **Projeto:**
 
