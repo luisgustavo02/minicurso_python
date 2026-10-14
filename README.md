@@ -5,7 +5,7 @@ GitHub: [luisgustavo02](https://github.com/luisgustavo02)\
 Email: [lg.amaral.02@gmail.com](mailto:lg.amaral.02@gmail.com)\
 Email: [luis.gustavomartins@ufpe.br](mailto:luis.gustavomartins@ufpe.br)
 
-Este minicurso é oferecido pelo DADES - Diretório Acadêmico do Departamento de Eletrônica e Sistemas da UFPE, no semestre 2026.2.
+Este minicurso é oferecido pelo DAES - Diretório Acadêmico de Eletrônica e Sistemas da UFPE, no semestre 2026.2.
 
 ## **Cronograma:**
 
